@@ -1,8 +1,10 @@
-# Obzidi4n's Tmux Config 
+# Obzidi4n's Stupid Simple Tmux.conf 
 
 If your tmux needs are simple (and you're not a Vim person), I think you'll like this one.  
 
-It's based on Thayer Williams' tmux.conf, so it's clean and elegant.
+It's ~~ripped off from~~ based on Thayer Williams' [tmux.conf](https://github.com/ddollar/tmux/blob/master/examples/t-williams.conf), so it's clean and elegant.
+
+
 
 
 The **'tick'** character is the hotkey.  It's underneath your tilde ~ character.  
