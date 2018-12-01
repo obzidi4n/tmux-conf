@@ -18,4 +18,5 @@ The **'tick'** character is the hotkey.  It's underneath your tilde ~ character.
 ## Additional / Optional Dependencies:
 
 Tmux Plugins Manager: https://github.com/tmux-plugins/tpm
+
 Tmux-Logging: https://github.com/tmux-plugins/tmux-logging
