@@ -15,4 +15,7 @@ The **'tick'** character is the hotkey.  It's underneath your tilde ~ character.
 
 * **tick** and **left/right arrow** gets you from tab to tab.
 
-```
+## Additional / Optional Dependencies:
+
+Tmux Plugins Manager: https://github.com/tmux-plugins/tpm
+Tmux-Logging: https://github.com/tmux-plugins/tmux-logging
